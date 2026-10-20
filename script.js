@@ -2,8 +2,8 @@
    CẤU HÌNH – chỉ cần sửa 2 dòng này
    ========================================================= */
 const CONFIG = {
-  friendName: 'Tên bạn',      // tên người nhận, hiện ở màn mở quà và đầu trang
-  yourName: 'Tên của bạn'     // tên bạn, hiện ở cuối trang
+  friendName: 'MPhuong',      // tên người nhận, hiện ở màn mở quà và đầu trang
+  yourName: 'Minh'     // tên bạn, hiện ở cuối trang
 };
 
 (() => {
